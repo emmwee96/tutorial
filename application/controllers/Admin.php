@@ -92,6 +92,6 @@ class Admin extends Base_Controller
     }
 
     function asd(){
-        
+        hello
     }
 }
