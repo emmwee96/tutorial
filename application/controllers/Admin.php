@@ -92,6 +92,10 @@ class Admin extends Base_Controller
     }
 
     function asd(){
+        asdasbdasidh asfasdfasd
+        fadsfdsaf
+        sdgadsbgadsgads
+        gadsfgadsfadsf
         
     }
 }
