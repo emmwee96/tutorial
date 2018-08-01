@@ -92,6 +92,14 @@ class Admin extends Base_Controller
     }
 
     function asd(){
-        hello
+        asdasbdasidh asfasdfasd
+        fadsfdsaf
+        sdgadsbgadsgads
+        gadsfgadsfadsf
+        
+    }
+
+    function test_test(){
+        asdashdas
     }
 }
