@@ -90,4 +90,8 @@ class Admin extends Base_Controller
             die(var_dump($input));
         }
     }
+
+    function asd(){
+        
+    }
 }
