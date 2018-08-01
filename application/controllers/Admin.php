@@ -98,4 +98,8 @@ class Admin extends Base_Controller
         gadsfgadsfadsf
         
     }
+
+    function test_test(){
+        asdashdas
+    }
 }
